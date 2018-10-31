@@ -16,7 +16,7 @@ You will need to download the provided image file, or another to your desktop th
 #Sketch > Add file > Select your image
 This will create a DATA folder with your image. 
 
-* You must do this in order for your code to work.*
+*You must do this in order for your code to work.*
 
 
 
